@@ -37,6 +37,7 @@ ng.module('opentok', [])
         init: function (apiKey, sessionId, token, options, cb) {
           // We need captionsArray to be available to all subscribers
           $rootScope.captionsArray = [];
+          OT.setLogLevel(OT.DEBUG);
           this.session = OT.initSession(apiKey, sessionId, options);
 
           OTSession.session.on({
