@@ -4,7 +4,7 @@
   "description": "Angular module for OpenTok",
   "main": "opentok-angular.js",
   "dependencies": {
-    "angular": "^1.4.8",
+    "angular": "^1.8.0",
     "opentok-layout-js": "^2.1.0"
   },
   "devDependencies": {
