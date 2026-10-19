@@ -5,6 +5,8 @@
 OpenTok-Angular
 ===============
 
+> ⚠️ This repository is deprecated and will no longer receive meaningful updates. For new projects and migrations, we recommend using the [Vonage Video React reference application](https://github.com/Vonage/vonage-video-react-app).
+
 Angular Module to make working with OpenTok more Angularish.
 
 It only works with the [OpenTok API for WebRTC](http://www.tokbox.com/opentok/webrtc/docs).
